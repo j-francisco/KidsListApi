@@ -1,0 +1,5 @@
+﻿{
+  "ConnectionStrings": {
+    "IntegrationTestsContext": "Host=localhost;Database=KidsListApiIntegrationTests;Username=postgres;Password=postgres"
+  }
+}
